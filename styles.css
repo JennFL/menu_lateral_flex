@@ -1,0 +1,36 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: black;
+}
+
+.menu_lateral button{
+    color: white;
+    background-color: black;
+    width: 200px;
+    text-align: left;
+    padding: 12px;
+    border: 0;
+    
+}
+.menu_lateral{
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column;
+}
+
+.boto_twi{
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column;
+}
+
+.b12{
+    margin-top: 20px;
+    padding-top: 20px;
+    width: 200px;
+    height: 40px;
+    color: white;
+    text-align: center;
+    background-color: #429CE9;
+}
